@@ -1,25 +1,20 @@
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { Inter } from "next/font/google";
 import { locales, type Locale } from "@/i18n";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin", "cyrillic"],
-});
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
   return {
@@ -30,11 +25,13 @@ export async function generateMetadata({
 
 export default async function LocaleLayout({
   children,
-  params: { locale },
+  params,
 }: {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
+  const { locale } = await params;
+
   if (!locales.includes(locale as Locale)) {
     notFound();
   }
@@ -43,7 +40,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning>
-      <body className={`${inter.variable} font-sans antialiased`}>
+      <body className="font-sans antialiased">
         <NextIntlClientProvider messages={messages}>
           <div className="relative flex min-h-screen flex-col">
             <Header locale={locale} />
