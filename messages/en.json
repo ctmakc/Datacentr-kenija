@@ -1,0 +1,1125 @@
+{
+  "metadata": {
+    "title": "Kenya AI Compute - Powering Africa's AI Future",
+    "description": "Enterprise-grade AI compute infrastructure in Kenya with integrated power generation. GPU/CPU compute, DePIN integration, 40% cost advantage."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "project": "Project",
+    "datacenter": "Datacenter",
+    "compute": "AI Compute",
+    "investors": "Investors",
+    "partners": "Partners",
+    "market": "Market",
+    "regulatory": "Regulatory",
+    "resources": "Resources",
+    "news": "News",
+    "careers": "Careers",
+    "contact": "Contact",
+    "portal": "Portal",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "home": {
+    "hero": {
+      "title": "Powering Africa's AI Future",
+      "subtitle": "Enterprise-grade AI compute infrastructure with integrated power generation. Deploy GPU workloads at 40% below market rates.",
+      "cta": {
+        "investors": "Explore Investment",
+        "compute": "Buy Compute",
+        "network": "Join Network"
+      }
+    },
+    "metrics": {
+      "capacity": {
+        "value": "1 MW",
+        "label": "IT Load Capacity"
+      },
+      "energy": {
+        "value": "$0.04",
+        "label": "per kWh"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "Target Uptime"
+      },
+      "savings": {
+        "value": "40%",
+        "label": "Cost Savings"
+      }
+    },
+    "valueProps": {
+      "investors": {
+        "title": "For Investors",
+        "description": "Infrastructure asset with 35-50% EBITDA margins. Vertically integrated model with energy arbitrage opportunity.",
+        "cta": "View Investment Opportunity"
+      },
+      "aiCompanies": {
+        "title": "For AI Companies",
+        "description": "GPU compute at 40% below market rates. H100, A100, and L40S available with flexible commitment terms.",
+        "cta": "Explore Compute Options"
+      },
+      "depin": {
+        "title": "For DePIN Networks",
+        "description": "Certified nodes with green energy certification. Render, Akash, io.net, and Bittensor integration ready.",
+        "cta": "Learn About DePIN"
+      },
+      "partners": {
+        "title": "For Partners",
+        "description": "Build Africa's AI infrastructure together. Local, technical, and energy partnership opportunities.",
+        "cta": "Partner With Us"
+      }
+    },
+    "overview": {
+      "title": "Project Overview",
+      "description": "A 1MW AI-focused datacenter in Kenya with integrated power generation, designed for GPU compute and DePIN network integration.",
+      "features": {
+        "energy": {
+          "title": "Own Power Generation",
+          "description": "$0.04/kWh vs $0.15+ grid costs"
+        },
+        "location": {
+          "title": "Strategic Location",
+          "description": "Kenya - East Africa's tech hub"
+        },
+        "modular": {
+          "title": "Modular Design",
+          "description": "Scalable container-based architecture"
+        },
+        "depin": {
+          "title": "DePIN Ready",
+          "description": "Multi-network integration support"
+        }
+      }
+    },
+    "phases": {
+      "title": "Development Phases",
+      "phase1": {
+        "title": "Phase 1",
+        "capacity": "300 kW",
+        "timeline": "2025"
+      },
+      "phase2": {
+        "title": "Phase 2",
+        "capacity": "1 MW",
+        "timeline": "2026"
+      },
+      "phase3": {
+        "title": "Phase 3",
+        "capacity": "3 MW",
+        "timeline": "2028+"
+      }
+    },
+    "dashboard": {
+      "title": "Live Metrics",
+      "capacity": "Capacity Utilization",
+      "uptime": "Network Uptime",
+      "pue": "Power Usage Effectiveness",
+      "carbon": "Carbon Offset"
+    },
+    "networks": {
+      "title": "Supported Networks",
+      "subtitle": "Integrated with leading decentralized compute networks",
+      "cta": "Become a Network Partner"
+    },
+    "news": {
+      "title": "Latest Updates",
+      "viewAll": "View All News"
+    },
+    "trust": {
+      "partners": "Strategic Partners",
+      "certifications": "Certifications",
+      "media": "Media Coverage"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "vision": {
+      "title": "Our Vision",
+      "mission": "To democratize access to AI compute infrastructure across Africa, enabling innovation and economic growth through sustainable, affordable computing power.",
+      "whyAfrica": "Why Africa Needs AI Infrastructure",
+      "whyAfricaText": "Africa represents the next frontier of digital transformation. With rapidly growing tech ecosystems, increasing connectivity, and a young, dynamic population, the continent is poised for an AI revolution. However, the lack of local compute infrastructure creates a bottleneck for innovation.",
+      "energyArbitrage": "The Energy Arbitrage Opportunity",
+      "energyArbitrageText": "By generating our own power at $0.04/kWh, we achieve a 60-70% cost advantage over competitors relying on grid power. This fundamental economics enables us to offer compute at globally competitive rates while maintaining strong margins.",
+      "longTerm": "Pan-African AI Backbone",
+      "longTermText": "Our vision extends beyond Kenya. We aim to build a network of AI compute facilities across Africa, connected by high-speed fiber, creating the continent's first truly distributed AI infrastructure.",
+      "sdg": "UN SDG Alignment",
+      "sdgText": "Our project directly contributes to UN Sustainable Development Goals: SDG 9 (Industry, Innovation, Infrastructure), SDG 8 (Decent Work and Economic Growth), and SDG 13 (Climate Action) through sustainable compute."
+    },
+    "team": {
+      "title": "Leadership Team",
+      "ceo": "CEO / Project Initiator",
+      "cto": "CTO / Technical Lead",
+      "cfo": "CFO / Financial Lead",
+      "coo": "COO / Operations Lead",
+      "advisors": "Advisory Board",
+      "advisor1": "DC Industry Expert",
+      "advisor2": "Kenya/Africa Expert",
+      "advisor3": "AI/ML Expert",
+      "advisor4": "Investment Expert",
+      "joinTeam": "Join Our Team"
+    },
+    "story": {
+      "title": "Our Story",
+      "genesis": "Project Genesis",
+      "genesisText": "Born from the intersection of AI compute demand, African digital transformation, and sustainable energy opportunities, our project represents a new model for infrastructure development.",
+      "milestones": "Key Milestones",
+      "status": "Current Status",
+      "timeline": "Interactive Timeline"
+    },
+    "partners": {
+      "title": "Our Partners",
+      "strategic": "Strategic Partners",
+      "technology": "Technology Partners",
+      "local": "Local Partners",
+      "become": "Become a Partner"
+    },
+    "roadmap": {
+      "title": "Roadmap",
+      "2024": "Feasibility & Planning",
+      "2025": "Phase 1 Construction",
+      "2026": "Phase 1 Launch",
+      "2027": "Phase 2 Expansion",
+      "2028": "Phase 3 & Replication"
+    }
+  },
+  "project": {
+    "title": "The Project",
+    "overview": {
+      "title": "Project Overview",
+      "subtitle": "A vertically integrated AI compute infrastructure project",
+      "summary": "Our project combines datacenter infrastructure with integrated power generation to deliver AI compute at unmatched costs in Africa.",
+      "keyFacts": "Key Facts & Figures",
+      "advantages": "Competitive Advantages",
+      "structure": "Project Structure"
+    },
+    "location": {
+      "kenya": {
+        "title": "Why Kenya",
+        "stability": "Political Stability",
+        "stabilityText": "Kenya is one of Africa's most stable democracies with a strong rule of law and investor-friendly policies.",
+        "techHub": "Tech Hub of East Africa",
+        "techHubText": "Home to 'Silicon Savannah', Kenya leads Africa in tech innovation with a thriving startup ecosystem.",
+        "connectivity": "Submarine Cable Access",
+        "connectivityText": "Multiple submarine cables (SEACOM, EASSy, TEAMS) provide robust international connectivity.",
+        "ecosystem": "Growing Tech Ecosystem",
+        "ecosystemText": "M-Pesa, Safaricom, and hundreds of startups demonstrate Kenya's tech capabilities.",
+        "government": "Government Support",
+        "governmentText": "Kenya's Vision 2030 prioritizes digital transformation and tech infrastructure development."
+      },
+      "site": {
+        "title": "Site Selection",
+        "criteria": "Selection Criteria",
+        "details": "Location Details",
+        "zoning": "Land & Zoning",
+        "logistics": "Accessibility",
+        "expansion": "Expansion Potential"
+      },
+      "connectivity": {
+        "title": "Connectivity",
+        "fiber": "Fiber Infrastructure",
+        "submarine": "Submarine Cables",
+        "latency": "Network Latency",
+        "europe": "To Europe: ~80ms",
+        "middleEast": "To Middle East: ~50ms",
+        "asia": "To Asia: ~120ms",
+        "americas": "To Americas: ~180ms",
+        "carrier": "Carrier Neutral",
+        "peering": "Peering Arrangements"
+      },
+      "climate": {
+        "title": "Climate Advantages",
+        "temperature": "Temperature Data",
+        "cooling": "Free Cooling Potential",
+        "disaster": "Natural Disaster Risk",
+        "pue": "Climate Impact on PUE"
+      }
+    },
+    "energy": {
+      "title": "Energy",
+      "generation": {
+        "title": "Power Generation",
+        "specs": "Plant Specifications",
+        "type": "Hybrid Solar + Gas Backup",
+        "capacity": "2MW+ Generation Capacity",
+        "redundancy": "N+1 Redundancy",
+        "cost": "Generation Cost: $0.04-0.06/kWh",
+        "comparison": "Grid Comparison: $0.15-0.20/kWh",
+        "fuel": "Fuel Supply & Logistics",
+        "renewable": "100% Renewable Roadmap"
+      },
+      "efficiency": {
+        "title": "Energy Efficiency",
+        "pue": "Target PUE: 1.3-1.5",
+        "cooling": "Cooling Strategy",
+        "monitoring": "Energy Monitoring",
+        "roadmap": "Efficiency Roadmap"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "carbon": "Carbon Footprint",
+        "certificates": "Renewable Certificates",
+        "offset": "Carbon Offset Programs",
+        "esg": "ESG Framework"
+      },
+      "grid": {
+        "title": "Grid Integration",
+        "backup": "Grid Backup Connection",
+        "ppa": "Power Purchase Agreements",
+        "export": "Future Grid Export"
+      }
+    },
+    "phases": {
+      "title": "Development Phases",
+      "phase1": {
+        "title": "Phase 1",
+        "capacity": "300kW IT Load",
+        "timeline": "9-12 months",
+        "capex": "$6-8M",
+        "config": "2x 40ft container modules",
+        "mix": "100kW GPU, 150kW CPU, 50kW Storage",
+        "tier": "Tier II Certification",
+        "revenue": "$1.5-2.5M/year revenue projection"
+      },
+      "phase2": {
+        "title": "Phase 2",
+        "capacity": "1MW IT Load",
+        "timeline": "+6-9 months after Phase 1",
+        "capex": "$14-17M additional",
+        "config": "6x container modules total",
+        "mix": "300kW GPU, 500kW CPU, 200kW Storage",
+        "tier": "Tier II+ / Tier III elements",
+        "revenue": "$5-8M/year revenue projection"
+      },
+      "phase3": {
+        "title": "Phase 3",
+        "capacity": "3MW IT Load",
+        "timeline": "2028+",
+        "capex": "TBD based on Phase 2",
+        "description": "Full-scale expansion with proven model"
+      }
+    }
+  },
+  "datacenter": {
+    "title": "Datacenter",
+    "overview": {
+      "title": "Datacenter Overview",
+      "philosophy": "Design Philosophy",
+      "specs": "Key Specifications",
+      "model": "3D Interactive Model",
+      "tour": "Virtual Tour"
+    },
+    "architecture": {
+      "title": "Architecture",
+      "design": {
+        "title": "Design",
+        "modular": "Modular/Containerized Approach",
+        "benefits": "Speed, scalability, cost efficiency",
+        "container": "Container Specifications",
+        "layout": "Layout Diagrams"
+      },
+      "power": {
+        "title": "Power Architecture",
+        "diagram": "Power Distribution Diagram",
+        "ups": "UPS Systems",
+        "pdu": "PDU Distribution",
+        "generator": "Generator Backup",
+        "bms": "Building Management System"
+      },
+      "cooling": {
+        "title": "Cooling Architecture",
+        "precision": "Precision Air Conditioning",
+        "containment": "Hot/Cold Aisle Containment",
+        "liquid": "Liquid Cooling for GPU",
+        "freeCooling": "Free Cooling Utilization",
+        "redundancy": "Cooling Redundancy"
+      },
+      "network": {
+        "title": "Network Architecture",
+        "topology": "Network Topology",
+        "spineLeaf": "Core/Spine-Leaf Design",
+        "carriers": "Carrier Interconnections",
+        "meetMe": "Meet-Me Rooms",
+        "bandwidth": "Bandwidth Capacity"
+      },
+      "security": {
+        "title": "Security",
+        "physical": "Physical Security",
+        "perimeter": "Perimeter Security",
+        "access": "Access Control",
+        "cctv": "CCTV Monitoring",
+        "cyber": "Cybersecurity",
+        "ddos": "DDoS Protection",
+        "fire": "Fire Suppression"
+      }
+    },
+    "specifications": {
+      "title": "Specifications",
+      "tier": {
+        "title": "Tier Level",
+        "baseline": "Tier II Baseline",
+        "elements": "Tier III Elements",
+        "uptime": "99.9%+ Uptime Target",
+        "certification": "Certification Roadmap"
+      },
+      "capacity": {
+        "title": "Capacity",
+        "itLoad": "IT Load by Phase",
+        "density": "Rack Density Options",
+        "standard": "Standard: 5-10kW/rack",
+        "high": "High Density: 15-20kW/rack",
+        "gpu": "GPU Optimized: 30-40kW/rack",
+        "total": "Total Rack Count"
+      },
+      "redundancy": {
+        "title": "Redundancy",
+        "power": "N+1 Power",
+        "cooling": "N+1 Cooling",
+        "fiber": "Dual Fiber Paths",
+        "maintenance": "Maintenance Windows"
+      },
+      "compliance": {
+        "title": "Compliance",
+        "iso": "ISO 27001 (planned)",
+        "soc": "SOC 2 Type II (planned)",
+        "uptime": "Uptime Institute (planned)",
+        "local": "Local Certifications"
+      }
+    },
+    "equipment": {
+      "title": "Equipment",
+      "compute": {
+        "title": "Compute",
+        "gpu": "GPU Servers",
+        "nvidia": "NVIDIA A100/H100",
+        "amd": "AMD MI250/MI300",
+        "intel": "Intel GPUs",
+        "cpu": "CPU Servers",
+        "epyc": "AMD EPYC",
+        "xeon": "Intel Xeon",
+        "arm": "ARM-based options"
+      },
+      "storage": {
+        "title": "Storage",
+        "nvme": "NVMe Flash Arrays",
+        "hdd": "HDD Storage Tiers",
+        "object": "Object Storage",
+        "planning": "Capacity Planning"
+      },
+      "networking": {
+        "title": "Networking",
+        "switches": "Switches & Routers",
+        "speed": "100G/400G Capabilities",
+        "sdn": "Software-Defined Networking"
+      }
+    },
+    "operations": {
+      "title": "Operations",
+      "noc": {
+        "title": "Network Operations Center",
+        "monitoring": "24/7 Monitoring",
+        "incident": "Incident Response",
+        "escalation": "Escalation Procedures"
+      },
+      "maintenance": {
+        "title": "Maintenance",
+        "preventive": "Preventive Schedule",
+        "spares": "Spare Parts Inventory",
+        "vendor": "Vendor Support",
+        "windows": "Maintenance Windows"
+      },
+      "support": {
+        "title": "Support",
+        "tiers": "Support Tiers",
+        "response": "Response Times",
+        "remoteHands": "Remote Hands",
+        "contact": "Contact Methods"
+      },
+      "dr": {
+        "title": "Disaster Recovery",
+        "bcp": "Business Continuity",
+        "backup": "Backup Power",
+        "data": "Data Backup",
+        "rto": "Recovery Objectives"
+      }
+    }
+  },
+  "compute": {
+    "title": "AI Compute",
+    "overview": {
+      "title": "AI Infrastructure as a Service",
+      "subtitle": "Enterprise-grade compute at 40% below market rates",
+      "whyUs": "Why Kenya AI Compute",
+      "cost": "40% cost advantage",
+      "green": "Green energy compute",
+      "location": "Strategic location",
+      "flexible": "Flexible deployment",
+      "useCases": "Use Cases",
+      "getStarted": "Getting Started"
+    },
+    "gpu": {
+      "title": "GPU Compute",
+      "training": {
+        "title": "AI Training",
+        "description": "Large model training on cutting-edge GPUs",
+        "available": "Available GPUs",
+        "h100": "NVIDIA H100 80GB",
+        "a100_80": "NVIDIA A100 80GB",
+        "a100_40": "NVIDIA A100 40GB",
+        "mi250": "AMD MI250X",
+        "clusters": "Cluster Configurations",
+        "single": "Single Node",
+        "multi": "Multi-Node (NVLink)",
+        "full": "Full Cluster (InfiniBand)",
+        "storage": "Storage Integration",
+        "pricing": "Pricing",
+        "onDemand": "On-demand: $0.70-1.50/GPU-hour",
+        "reserved1m": "Reserved (1mo): 20% discount",
+        "reserved6m": "Reserved (6mo): 35% discount",
+        "reserved1y": "Reserved (1yr): 50% discount"
+      },
+      "inference": {
+        "title": "AI Inference",
+        "description": "Low-latency inference at scale",
+        "l40s": "NVIDIA L40S",
+        "t4": "NVIDIA T4",
+        "mi210": "AMD MI210",
+        "deployment": "Deployment Options"
+      },
+      "rendering": {
+        "title": "Rendering",
+        "description": "3D rendering and video processing",
+        "workloads": "Supported Workloads"
+      },
+      "fineTuning": {
+        "title": "Fine-Tuning",
+        "description": "Model fine-tuning services",
+        "frameworks": "Supported Frameworks"
+      }
+    },
+    "cpu": {
+      "title": "CPU Compute",
+      "general": {
+        "title": "General Compute",
+        "vms": "Virtual Machines",
+        "instances": "Instance Types",
+        "standard": "Standard (balanced)",
+        "compute": "Compute-optimized",
+        "memory": "Memory-optimized",
+        "pricing": "$0.02-0.08/vCPU-hour"
+      },
+      "bareMetal": {
+        "title": "Bare Metal",
+        "dedicated": "Dedicated Servers",
+        "configs": "Configurations"
+      },
+      "edge": {
+        "title": "Edge Inference",
+        "cpuInference": "CPU-based Inference",
+        "useCases": "Use Cases"
+      }
+    },
+    "storage": {
+      "title": "Storage",
+      "block": {
+        "title": "Block Storage",
+        "nvme": "NVMe SSD",
+        "tiers": "Performance Tiers",
+        "pricing": "$0.10-0.20/GB-month"
+      },
+      "object": {
+        "title": "Object Storage",
+        "s3": "S3-compatible",
+        "useCases": "Use Cases",
+        "pricing": "$0.02-0.05/GB-month"
+      },
+      "datasets": {
+        "title": "Datasets",
+        "preloaded": "Pre-loaded AI Datasets",
+        "marketplace": "Dataset Marketplace",
+        "custom": "Custom Data Loading"
+      }
+    },
+    "networking": {
+      "title": "Networking",
+      "connectivity": {
+        "title": "Connectivity",
+        "public": "Public Internet",
+        "private": "Private Networking",
+        "crossConnect": "Cross-connect Options"
+      },
+      "bandwidth": {
+        "title": "Bandwidth",
+        "included": "Included Bandwidth",
+        "additional": "Additional Pricing",
+        "burst": "Burst Capabilities"
+      },
+      "latency": {
+        "title": "Latency",
+        "regions": "Latency to Major Regions",
+        "peering": "Peering Partners",
+        "cdn": "Content Delivery"
+      }
+    },
+    "depin": {
+      "title": "DePIN Integration",
+      "overview": {
+        "title": "Decentralized Physical Infrastructure",
+        "what": "What is DePIN",
+        "whatText": "DePIN (Decentralized Physical Infrastructure Networks) connects real-world infrastructure to blockchain networks, enabling distributed compute, storage, and more.",
+        "why": "Why DePIN + Kenya AI Compute",
+        "lowEnergy": "Low energy costs = higher node profitability",
+        "geographic": "Geographic diversification for networks",
+        "regulatory": "Regulatory-friendly jurisdiction",
+        "professional": "Professional infrastructure",
+        "supported": "Supported Networks"
+      },
+      "render": {
+        "title": "Render Network",
+        "about": "About Render Network",
+        "aboutText": "Render Network is a distributed GPU rendering platform that connects artists and studios with GPU providers.",
+        "specs": "Our Node Specifications",
+        "earnings": "Expected Earnings",
+        "allocate": "Allocate Capacity",
+        "partnership": "Partnership Details"
+      },
+      "akash": {
+        "title": "Akash Network",
+        "about": "About Akash",
+        "aboutText": "Akash Network is a decentralized cloud computing marketplace for deploying applications.",
+        "provider": "Provider Setup",
+        "pricing": "Pricing Strategy",
+        "utilization": "Expected Utilization"
+      },
+      "ionet": {
+        "title": "io.net",
+        "about": "About io.net",
+        "aboutText": "io.net aggregates underutilized GPU compute from data centers, crypto miners, and consumer hardware.",
+        "integration": "GPU Cluster Integration",
+        "tokenomics": "Tokenomics Benefits",
+        "onboarding": "Onboarding Process"
+      },
+      "gensyn": {
+        "title": "Gensyn",
+        "about": "About Gensyn",
+        "aboutText": "Gensyn is building a trustless protocol for deep learning compute.",
+        "nodes": "Training Verification Nodes",
+        "roadmap": "Integration Roadmap"
+      },
+      "bittensor": {
+        "title": "Bittensor",
+        "about": "About Bittensor",
+        "aboutText": "Bittensor is a decentralized machine learning network.",
+        "subnets": "Subnet Participation",
+        "mining": "Mining Setup"
+      },
+      "other": {
+        "title": "Other Networks",
+        "ritual": "Ritual",
+        "flux": "Flux",
+        "nosana": "Nosana",
+        "emerging": "Emerging Networks"
+      },
+      "nodeHosting": {
+        "title": "Node Hosting",
+        "runOwn": "Run Your Own DePIN Node",
+        "colocation": "Colocation for Node Operators",
+        "managed": "Managed Node Services"
+      },
+      "tokenomics": {
+        "title": "Tokenomics",
+        "revenue": "Revenue Sharing Models",
+        "earnings": "Token Earnings Potential",
+        "staking": "Staking Opportunities",
+        "risks": "Risk Considerations"
+      }
+    },
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "privateCloud": {
+        "title": "Private Cloud",
+        "dedicated": "Dedicated Infrastructure",
+        "custom": "Custom Configurations",
+        "sla": "Enterprise SLA"
+      },
+      "hybridCloud": {
+        "title": "Hybrid Cloud",
+        "integration": "AWS/GCP/Azure Integration",
+        "burst": "Burst Capabilities",
+        "residency": "Data Residency"
+      },
+      "managed": {
+        "title": "Managed Services",
+        "mlops": "MLOps Support",
+        "deployment": "Model Deployment",
+        "consulting": "Consulting Services"
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "calculator": {
+        "title": "Pricing Calculator",
+        "select": "Select Resource Type",
+        "configure": "Configure Specifications",
+        "commitment": "Choose Commitment",
+        "calculate": "Calculate Cost",
+        "compare": "Compare with Alternatives"
+      },
+      "plans": {
+        "title": "Plans",
+        "payg": "Pay-as-you-go",
+        "reserved": "Reserved Instances",
+        "spot": "Spot Instances",
+        "enterprise": "Enterprise Agreements"
+      },
+      "comparison": {
+        "title": "Comparison",
+        "vsAws": "vs AWS",
+        "vsGcp": "vs Google Cloud",
+        "vsAzure": "vs Azure",
+        "vsLambda": "vs Lambda Labs",
+        "vsCoreweave": "vs CoreWeave"
+      }
+    },
+    "sla": {
+      "title": "SLA",
+      "uptime": {
+        "title": "Uptime",
+        "guarantee": "99.9% availability guarantee",
+        "maintenance": "Scheduled maintenance",
+        "credits": "Credit policy"
+      },
+      "support": {
+        "title": "Support",
+        "tiers": "Support Tiers",
+        "basic": "Basic: Email, 24h response",
+        "standard": "Standard: Chat, 4h response",
+        "premium": "Premium: Phone, 1h response",
+        "enterprise": "Enterprise: Dedicated TAM"
+      },
+      "security": {
+        "title": "Security",
+        "data": "Data Protection",
+        "compliance": "Compliance",
+        "practices": "Security Practices"
+      }
+    },
+    "onboarding": {
+      "title": "Onboarding",
+      "getStarted": {
+        "title": "Getting Started",
+        "account": "Create Account",
+        "verification": "Verification",
+        "payment": "Payment Setup",
+        "deploy": "First Deployment"
+      },
+      "docs": {
+        "title": "Documentation",
+        "api": "API Reference",
+        "sdk": "SDK Documentation",
+        "tutorials": "Tutorials",
+        "samples": "Sample Code"
+      },
+      "migration": {
+        "title": "Migration",
+        "from": "From Cloud Providers",
+        "tools": "Migration Tools",
+        "support": "Migration Support"
+      }
+    }
+  },
+  "investors": {
+    "title": "Investors",
+    "overview": {
+      "title": "Investment Opportunity",
+      "thesis": "Investment Thesis",
+      "aiSupercycle": "The AI Infrastructure Supercycle",
+      "energyArbitrage": "Energy Arbitrage Opportunity",
+      "africaTransformation": "Africa Digital Transformation",
+      "depinEffects": "DePIN Network Effects",
+      "highlights": "Key Investment Highlights",
+      "summary": "Deal Summary",
+      "requestDeck": "Request Investor Deck"
+    },
+    "opportunity": {
+      "title": "The Opportunity",
+      "market": {
+        "title": "Market Overview",
+        "globalAi": "Global AI Infrastructure Market",
+        "marketSize": "Market size and growth",
+        "gpuDemand": "GPU Compute Demand",
+        "africa": "Africa Data Center Market",
+        "depin": "DePIN Market"
+      },
+      "advantage": {
+        "title": "Competitive Advantage",
+        "energy": "Energy Cost Moat",
+        "energyText": "$0.04/kWh vs $0.10-0.15 elsewhere = 60-70% cost reduction",
+        "firstMover": "First-mover in East Africa",
+        "integrated": "Vertically Integrated Model",
+        "diversification": "DePIN Diversification",
+        "scalable": "Scalable Modular Design"
+      },
+      "timing": {
+        "title": "Why Now",
+        "invest": "Why invest now",
+        "window": "Market Window",
+        "dynamics": "Competitive Dynamics",
+        "risk": "Risk of Waiting"
+      },
+      "comparables": {
+        "title": "Comparables",
+        "transactions": "Similar Transactions",
+        "benchmarks": "Valuation Benchmarks",
+        "multiples": "Exit Multiples"
+      }
+    },
+    "financials": {
+      "title": "Financial Model",
+      "model": {
+        "title": "Model Overview",
+        "assumptions": "Key Assumptions",
+        "revenue": "Revenue Model",
+        "gpuRevenue": "GPU Compute Revenue",
+        "cpuRevenue": "CPU Compute Revenue",
+        "storageRevenue": "Storage Revenue",
+        "depinEarnings": "DePIN Token Earnings",
+        "other": "Other Services",
+        "costs": "Cost Structure"
+      },
+      "capex": {
+        "title": "CAPEX",
+        "total": "Total: $20-25M",
+        "breakdown": "Breakdown",
+        "datacenter": "Datacenter: $3.5-4.5M",
+        "servers": "Servers (GPU/CPU): $14-18M",
+        "networking": "Networking: $2-3M",
+        "contingency": "Contingency: $1-2M",
+        "schedule": "Investment Schedule",
+        "financing": "Financing Structure"
+      },
+      "opex": {
+        "title": "OPEX",
+        "annual": "Annual: $2.0-2.8M",
+        "energy": "Energy: $0.8-1.2M",
+        "personnel": "Personnel: $0.4-0.6M",
+        "connectivity": "Connectivity: $0.2-0.3M",
+        "maintenance": "Maintenance: $0.2-0.3M",
+        "licenses": "Licenses: $0.1-0.2M",
+        "other": "Other: $0.1-0.2M",
+        "scaling": "Scaling with Phases"
+      },
+      "revenue": {
+        "title": "Revenue Projections",
+        "year1": "Year 1: $2-3M",
+        "year2": "Year 2: $5-8M",
+        "year3": "Year 3: $8-12M",
+        "year4": "Year 4: $10-15M",
+        "year5": "Year 5: $12-18M",
+        "mix": "Revenue Mix Evolution",
+        "utilization": "Utilization Assumptions"
+      },
+      "scenarios": {
+        "title": "Scenario Analysis",
+        "base": "Base Case",
+        "conservative": "Conservative Case",
+        "optimistic": "Optimistic Case",
+        "sensitivity": "Sensitivity Analysis",
+        "monte": "Monte Carlo Simulation"
+      },
+      "calculator": {
+        "title": "ROI Calculator",
+        "amount": "Investment Amount",
+        "stake": "Equity Stake",
+        "irr": "IRR Projection",
+        "npv": "NPV Calculation",
+        "cashflow": "Cash Flow Waterfall",
+        "exit": "Exit Value Scenarios"
+      }
+    },
+    "structure": {
+      "title": "Deal Structure",
+      "legal": {
+        "title": "Legal Structure",
+        "corporate": "Corporate Structure",
+        "holding": "Holding Company",
+        "operating": "Kenya Operating Company",
+        "ip": "IP Holding",
+        "vehicle": "Investment Vehicle",
+        "considerations": "Key Considerations"
+      },
+      "equity": {
+        "title": "Equity Structure",
+        "distribution": "Equity Distribution",
+        "founders": "Founders/Initiators",
+        "investors": "Investors",
+        "local": "Local Partner",
+        "technical": "Technical Partner",
+        "esop": "ESOP Reserve",
+        "classes": "Share Classes",
+        "antiDilution": "Anti-dilution Provisions"
+      },
+      "governance": {
+        "title": "Governance",
+        "board": "Board Composition",
+        "voting": "Voting Rights",
+        "reserved": "Reserved Matters",
+        "reporting": "Reporting Requirements",
+        "management": "Management Team"
+      },
+      "exit": {
+        "title": "Exit Strategy",
+        "strategies": "Exit Options",
+        "strategic": "Strategic Sale",
+        "ipo": "IPO (Long-term)",
+        "secondary": "Secondary Sale",
+        "dividend": "Dividend Recap",
+        "timeline": "Expected Timeline: 5-7 years",
+        "returns": "Target Returns: 3-5x"
+      }
+    },
+    "risks": {
+      "title": "Risk Analysis",
+      "analysis": {
+        "title": "Risk Assessment",
+        "matrix": "Risk Matrix",
+        "categories": "Risk Categories",
+        "market": "Market Risks",
+        "operational": "Operational Risks",
+        "financial": "Financial Risks",
+        "political": "Political/Regulatory Risks",
+        "technology": "Technology Risks",
+        "execution": "Execution Risks",
+        "explorer": "Risk Explorer"
+      },
+      "mitigation": {
+        "title": "Risk Mitigation",
+        "strategies": "Mitigation Strategies",
+        "insurance": "Insurance Coverage",
+        "contracts": "Contractual Protections",
+        "contingency": "Contingency Plans"
+      },
+      "kenya": {
+        "title": "Kenya-Specific Risks",
+        "political": "Political Risk",
+        "currency": "Currency Risk",
+        "regulatory": "Regulatory Risk",
+        "infrastructure": "Infrastructure Risk"
+      }
+    },
+    "dueDiligence": {
+      "title": "Due Diligence",
+      "process": {
+        "title": "DD Process",
+        "timeline": "Timeline",
+        "steps": "Required Steps",
+        "contacts": "Key Contacts"
+      },
+      "documents": {
+        "title": "Documents",
+        "summary": "Executive Summary",
+        "deck": "Pitch Deck",
+        "model": "Financial Model",
+        "request": "Request Full Data Room"
+      },
+      "faq": {
+        "title": "FAQ",
+        "questions": "Common Questions"
+      }
+    },
+    "contact": {
+      "title": "Contact IR",
+      "ir": "Investor Relations",
+      "schedule": "Schedule a Call",
+      "request": "Request Materials",
+      "nda": "NDA Process"
+    }
+  },
+  "partners": {
+    "title": "Partners",
+    "overview": {
+      "title": "Partner With Us",
+      "philosophy": "Partnership Philosophy",
+      "ecosystem": "Partner Ecosystem",
+      "benefits": "Benefits of Partnership"
+    },
+    "kenya": {
+      "title": "Kenya Partner",
+      "opportunity": {
+        "title": "The Opportunity",
+        "role": "Role Description",
+        "contributions": "Expected Contributions",
+        "powerPlant": "Power plant construction",
+        "dcConstruction": "DC construction management",
+        "permits": "Local permits & licenses",
+        "workforce": "Workforce & staffing",
+        "logistics": "Logistics coordination",
+        "equity": "Equity Participation"
+      },
+      "requirements": {
+        "title": "Requirements",
+        "experience": "Experience Required",
+        "financial": "Financial Requirements",
+        "presence": "Local Presence",
+        "track": "Track Record"
+      },
+      "benefits": {
+        "title": "Benefits",
+        "revenue": "Revenue Share",
+        "equity": "Equity Stake",
+        "longTerm": "Long-term Partnership",
+        "technology": "Technology Transfer"
+      },
+      "apply": "Apply Now"
+    },
+    "technical": {
+      "title": "Technical Partner",
+      "role": {
+        "title": "The Role",
+        "architecture": "DC Architecture & Design",
+        "engineering": "Engineering Oversight",
+        "operations": "Operations Model",
+        "support": "Ongoing Support"
+      },
+      "requirements": {
+        "title": "Requirements",
+        "dcExperience": "DC Design Experience",
+        "certifications": "Certifications",
+        "regional": "Regional Experience",
+        "references": "References"
+      },
+      "engagement": {
+        "title": "Engagement Models",
+        "consulting": "Consulting Only",
+        "designBuild": "Design-Build",
+        "equity": "Equity Participation",
+        "om": "O&M Contract"
+      },
+      "apply": "Submit RFI"
+    },
+    "energy": {
+      "title": "Energy Partner",
+      "opportunity": {
+        "title": "The Opportunity",
+        "powerGen": "Power Generation Partnership",
+        "ppa": "PPA Structures",
+        "renewable": "Renewable Development"
+      },
+      "requirements": {
+        "title": "Requirements",
+        "capacity": "Generation Capacity",
+        "reliability": "Reliability",
+        "pricing": "Pricing Expectations",
+        "term": "Term Expectations"
+      },
+      "apply": "Express Interest"
+    },
+    "suppliers": {
+      "title": "Equipment Suppliers",
+      "categories": {
+        "title": "Categories",
+        "servers": "Server & Compute",
+        "networking": "Networking",
+        "power": "Power Systems",
+        "cooling": "Cooling Systems",
+        "infrastructure": "Physical Infrastructure",
+        "security": "Security Systems"
+      },
+      "requirements": {
+        "title": "Requirements",
+        "specs": "Technical Specifications",
+        "quality": "Quality Standards",
+        "warranty": "Warranty Requirements",
+        "support": "Support Requirements",
+        "logistics": "Logistics to Kenya"
+      },
+      "tender": {
+        "title": "Tender Process",
+        "timeline": "Procurement Timeline",
+        "criteria": "Evaluation Criteria",
+        "terms": "Terms & Conditions"
+      },
+      "register": "Register as Supplier"
+    },
+    "network": {
+      "title": "Network Partners",
+      "integration": {
+        "title": "Integration",
+        "how": "How to Integrate",
+        "technical": "Technical Requirements",
+        "testing": "Testing Process"
+      },
+      "benefits": {
+        "title": "Benefits",
+        "geographic": "Geographic Expansion",
+        "lowCost": "Low-cost Compute",
+        "reliable": "Reliable Infrastructure"
+      },
+      "apply": "Apply for Partnership"
+    },
+    "operations": {
+      "title": "Operations Partner",
+      "noc": {
+        "title": "NOC Services",
+        "requirements": "NOC Requirements",
+        "staffing": "Staffing Model",
+        "sla": "SLA Requirements"
+      },
+      "maintenance": {
+        "title": "Maintenance",
+        "preventive": "Preventive Maintenance",
+        "breakFix": "Break-fix Support",
+        "spares": "Spare Parts"
+      },
+      "apply": "Apply for Partnership"
+    }
+  },
+  "footer": {
+    "description": "Building Africa's AI infrastructure with sustainable, affordable compute.",
+    "quickLinks": "Quick Links",
+    "company": "Company",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "contact": "Contact",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe for updates on our project",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "apply": "Apply",
+    "submit": "Submit",
+    "download": "Download",
+    "viewAll": "View All",
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "required": "Required",
+    "optional": "Optional",
+    "comingSoon": "Coming Soon",
+    "underConstruction": "Under Construction"
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "message": "Message",
+    "role": "Role",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "sent": "Message sent!",
+    "error": "Failed to send. Please try again."
+  }
+}

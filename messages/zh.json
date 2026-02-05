@@ -1,0 +1,1125 @@
+{
+  "metadata": {
+    "title": "肯尼亚AI计算 - 推动非洲AI未来",
+    "description": "肯尼亚企业级AI计算基础设施，配备自发电系统。GPU/CPU计算，DePIN集成，成本优势40%。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "project": "项目",
+    "datacenter": "数据中心",
+    "compute": "AI计算",
+    "investors": "投资者",
+    "partners": "合作伙伴",
+    "market": "市场",
+    "regulatory": "法规",
+    "resources": "资源",
+    "news": "新闻",
+    "careers": "职业",
+    "contact": "联系我们",
+    "portal": "门户",
+    "login": "登录",
+    "getStarted": "开始使用"
+  },
+  "home": {
+    "hero": {
+      "title": "推动非洲AI未来",
+      "subtitle": "配备自发电系统的企业级AI计算基础设施。GPU工作负载成本比市场价低40%。",
+      "cta": {
+        "investors": "探索投资",
+        "compute": "购买算力",
+        "network": "加入网络"
+      }
+    },
+    "metrics": {
+      "capacity": {
+        "value": "1 MW",
+        "label": "IT负载容量"
+      },
+      "energy": {
+        "value": "$0.04",
+        "label": "每千瓦时"
+      },
+      "uptime": {
+        "value": "99.9%",
+        "label": "目标正常运行时间"
+      },
+      "savings": {
+        "value": "40%",
+        "label": "成本节约"
+      }
+    },
+    "valueProps": {
+      "investors": {
+        "title": "投资者",
+        "description": "基础设施资产，EBITDA利润率35-50%。垂直整合模式，能源套利机会。",
+        "cta": "查看投资机会"
+      },
+      "aiCompanies": {
+        "title": "AI公司",
+        "description": "GPU计算成本低于市场价40%。H100、A100和L40S可用，灵活的承诺条款。",
+        "cta": "探索计算选项"
+      },
+      "depin": {
+        "title": "DePIN网络",
+        "description": "获得绿色能源认证的认证节点。Render、Akash、io.net和Bittensor集成就绪。",
+        "cta": "了解DePIN"
+      },
+      "partners": {
+        "title": "合作伙伴",
+        "description": "共同建设非洲AI基础设施。本地、技术和能源合作机会。",
+        "cta": "与我们合作"
+      }
+    },
+    "overview": {
+      "title": "项目概述",
+      "description": "肯尼亚1MW AI专用数据中心，配备自发电系统，专为GPU计算和DePIN网络集成设计。",
+      "features": {
+        "energy": {
+          "title": "自发电",
+          "description": "$0.04/kWh vs 电网$0.15+"
+        },
+        "location": {
+          "title": "战略位置",
+          "description": "肯尼亚 - 东非科技中心"
+        },
+        "modular": {
+          "title": "模块化设计",
+          "description": "可扩展的集装箱式架构"
+        },
+        "depin": {
+          "title": "DePIN就绪",
+          "description": "多网络集成支持"
+        }
+      }
+    },
+    "phases": {
+      "title": "发展阶段",
+      "phase1": {
+        "title": "第一阶段",
+        "capacity": "300 kW",
+        "timeline": "2025"
+      },
+      "phase2": {
+        "title": "第二阶段",
+        "capacity": "1 MW",
+        "timeline": "2026"
+      },
+      "phase3": {
+        "title": "第三阶段",
+        "capacity": "3 MW",
+        "timeline": "2028+"
+      }
+    },
+    "dashboard": {
+      "title": "实时指标",
+      "capacity": "容量利用率",
+      "uptime": "网络正常运行时间",
+      "pue": "电源使用效率",
+      "carbon": "碳抵消"
+    },
+    "networks": {
+      "title": "支持的网络",
+      "subtitle": "与领先的去中心化计算网络集成",
+      "cta": "成为网络合作伙伴"
+    },
+    "news": {
+      "title": "最新动态",
+      "viewAll": "查看所有新闻"
+    },
+    "trust": {
+      "partners": "战略合作伙伴",
+      "certifications": "认证",
+      "media": "媒体报道"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "vision": {
+      "title": "我们的愿景",
+      "mission": "通过可持续、经济实惠的计算能力，使非洲各地能够获得AI计算基础设施，从而推动创新和经济增长。",
+      "whyAfrica": "为什么非洲需要AI基础设施",
+      "whyAfricaText": "非洲代表着数字化转型的下一个前沿。随着科技生态系统的快速增长、连接性的提高和年轻、充满活力的人口，非洲大陆正准备迎接AI革命。然而，本地计算基础设施的缺乏成为创新的瓶颈。",
+      "energyArbitrage": "能源套利机会",
+      "energyArbitrageText": "通过以$0.04/kWh的成本自发电，我们比依赖电网电力的竞争对手拥有60-70%的成本优势。这种基本经济学使我们能够以全球竞争力的价格提供计算服务，同时保持强劲的利润率。",
+      "longTerm": "泛非AI骨干网",
+      "longTermText": "我们的愿景不仅限于肯尼亚。我们的目标是在非洲各地建立一个由高速光纤连接的AI计算设施网络，创建非洲大陆首个真正分布式的AI基础设施。",
+      "sdg": "联合国可持续发展目标对齐",
+      "sdgText": "我们的项目直接贡献于联合国可持续发展目标：SDG 9（工业、创新和基础设施）、SDG 8（体面工作和经济增长）和SDG 13（气候行动）通过可持续计算。"
+    },
+    "team": {
+      "title": "领导团队",
+      "ceo": "首席执行官/项目发起人",
+      "cto": "首席技术官/技术负责人",
+      "cfo": "首席财务官/财务负责人",
+      "coo": "首席运营官/运营负责人",
+      "advisors": "顾问委员会",
+      "advisor1": "数据中心行业专家",
+      "advisor2": "肯尼亚/非洲专家",
+      "advisor3": "AI/ML专家",
+      "advisor4": "投资专家",
+      "joinTeam": "加入我们的团队"
+    },
+    "story": {
+      "title": "我们的故事",
+      "genesis": "项目起源",
+      "genesisText": "诞生于AI计算需求、非洲数字化转型和可持续能源机会的交汇点，我们的项目代表了基础设施发展的新模式。",
+      "milestones": "关键里程碑",
+      "status": "当前状态",
+      "timeline": "互动时间线"
+    },
+    "partners": {
+      "title": "我们的合作伙伴",
+      "strategic": "战略合作伙伴",
+      "technology": "技术合作伙伴",
+      "local": "本地合作伙伴",
+      "become": "成为合作伙伴"
+    },
+    "roadmap": {
+      "title": "路线图",
+      "2024": "可行性研究与规划",
+      "2025": "第一阶段建设",
+      "2026": "第一阶段启动",
+      "2027": "第二阶段扩展",
+      "2028": "第三阶段和复制"
+    }
+  },
+  "project": {
+    "title": "项目",
+    "overview": {
+      "title": "项目概述",
+      "subtitle": "垂直整合的AI计算基础设施项目",
+      "summary": "我们的项目将数据中心基础设施与自发电系统相结合，以非洲无与伦比的成本提供AI计算。",
+      "keyFacts": "关键事实与数据",
+      "advantages": "竞争优势",
+      "structure": "项目结构"
+    },
+    "location": {
+      "kenya": {
+        "title": "为什么选择肯尼亚",
+        "stability": "政治稳定",
+        "stabilityText": "肯尼亚是非洲最稳定的民主国家之一，拥有强大的法治和投资者友好的政策。",
+        "techHub": "东非科技中心",
+        "techHubText": "作为"硅萨凡纳"的所在地，肯尼亚在科技创新方面领先非洲，拥有蓬勃发展的创业生态系统。",
+        "connectivity": "海底电缆接入",
+        "connectivityText": "多条海底电缆（SEACOM、EASSy、TEAMS）提供强大的国际连接。",
+        "ecosystem": "不断发展的科技生态系统",
+        "ecosystemText": "M-Pesa、Safaricom和数百家初创企业展示了肯尼亚的科技能力。",
+        "government": "政府支持",
+        "governmentText": "肯尼亚2030愿景优先发展数字化转型和科技基础设施建设。"
+      },
+      "site": {
+        "title": "选址",
+        "criteria": "选址标准",
+        "details": "位置详情",
+        "zoning": "土地与分区",
+        "logistics": "可达性",
+        "expansion": "扩展潜力"
+      },
+      "connectivity": {
+        "title": "连接性",
+        "fiber": "光纤基础设施",
+        "submarine": "海底电缆",
+        "latency": "网络延迟",
+        "europe": "到欧洲：~80ms",
+        "middleEast": "到中东：~50ms",
+        "asia": "到亚洲：~120ms",
+        "americas": "到美洲：~180ms",
+        "carrier": "运营商中立",
+        "peering": "对等安排"
+      },
+      "climate": {
+        "title": "气候优势",
+        "temperature": "温度数据",
+        "cooling": "自然冷却潜力",
+        "disaster": "自然灾害风险",
+        "pue": "气候对PUE的影响"
+      }
+    },
+    "energy": {
+      "title": "能源",
+      "generation": {
+        "title": "发电",
+        "specs": "电厂规格",
+        "type": "混合太阳能+燃气备用",
+        "capacity": "2MW+发电容量",
+        "redundancy": "N+1冗余",
+        "cost": "发电成本：$0.04-0.06/kWh",
+        "comparison": "电网比较：$0.15-0.20/kWh",
+        "fuel": "燃料供应与物流",
+        "renewable": "100%可再生能源路线图"
+      },
+      "efficiency": {
+        "title": "能源效率",
+        "pue": "目标PUE：1.3-1.5",
+        "cooling": "冷却策略",
+        "monitoring": "能源监控",
+        "roadmap": "效率路线图"
+      },
+      "sustainability": {
+        "title": "可持续性",
+        "carbon": "碳足迹",
+        "certificates": "可再生能源证书",
+        "offset": "碳抵消计划",
+        "esg": "ESG框架"
+      },
+      "grid": {
+        "title": "电网整合",
+        "backup": "电网备用连接",
+        "ppa": "购电协议",
+        "export": "未来电网出口"
+      }
+    },
+    "phases": {
+      "title": "发展阶段",
+      "phase1": {
+        "title": "第一阶段",
+        "capacity": "300kW IT负载",
+        "timeline": "9-12个月",
+        "capex": "$600-800万",
+        "config": "2x 40英尺集装箱模块",
+        "mix": "100kW GPU，150kW CPU，50kW存储",
+        "tier": "Tier II认证",
+        "revenue": "年收入预测$150-250万"
+      },
+      "phase2": {
+        "title": "第二阶段",
+        "capacity": "1MW IT负载",
+        "timeline": "第一阶段后+6-9个月",
+        "capex": "额外$1400-1700万",
+        "config": "共6x集装箱模块",
+        "mix": "300kW GPU，500kW CPU，200kW存储",
+        "tier": "Tier II+ / Tier III元素",
+        "revenue": "年收入预测$500-800万"
+      },
+      "phase3": {
+        "title": "第三阶段",
+        "capacity": "3MW IT负载",
+        "timeline": "2028+",
+        "capex": "根据第二阶段确定",
+        "description": "经验证模式的全面扩展"
+      }
+    }
+  },
+  "datacenter": {
+    "title": "数据中心",
+    "overview": {
+      "title": "数据中心概述",
+      "philosophy": "设计理念",
+      "specs": "关键规格",
+      "model": "3D互动模型",
+      "tour": "虚拟参观"
+    },
+    "architecture": {
+      "title": "架构",
+      "design": {
+        "title": "设计",
+        "modular": "模块化/集装箱化方法",
+        "benefits": "速度、可扩展性、成本效益",
+        "container": "集装箱规格",
+        "layout": "布局图"
+      },
+      "power": {
+        "title": "电力架构",
+        "diagram": "电力分配图",
+        "ups": "UPS系统",
+        "pdu": "PDU分配",
+        "generator": "发电机备用",
+        "bms": "楼宇管理系统"
+      },
+      "cooling": {
+        "title": "冷却架构",
+        "precision": "精密空调",
+        "containment": "热/冷通道隔离",
+        "liquid": "GPU液冷",
+        "freeCooling": "自然冷却利用",
+        "redundancy": "冷却冗余"
+      },
+      "network": {
+        "title": "网络架构",
+        "topology": "网络拓扑",
+        "spineLeaf": "核心/脊叶设计",
+        "carriers": "运营商互连",
+        "meetMe": "交汇室",
+        "bandwidth": "带宽容量"
+      },
+      "security": {
+        "title": "安全",
+        "physical": "物理安全",
+        "perimeter": "周边安全",
+        "access": "访问控制",
+        "cctv": "闭路电视监控",
+        "cyber": "网络安全",
+        "ddos": "DDoS防护",
+        "fire": "消防"
+      }
+    },
+    "specifications": {
+      "title": "规格",
+      "tier": {
+        "title": "等级",
+        "baseline": "Tier II基线",
+        "elements": "Tier III元素",
+        "uptime": "99.9%+正常运行时间目标",
+        "certification": "认证路线图"
+      },
+      "capacity": {
+        "title": "容量",
+        "itLoad": "各阶段IT负载",
+        "density": "机架密度选项",
+        "standard": "标准：5-10kW/机架",
+        "high": "高密度：15-20kW/机架",
+        "gpu": "GPU优化：30-40kW/机架",
+        "total": "总机架数"
+      },
+      "redundancy": {
+        "title": "冗余",
+        "power": "N+1电力",
+        "cooling": "N+1冷却",
+        "fiber": "双光纤路径",
+        "maintenance": "维护窗口"
+      },
+      "compliance": {
+        "title": "合规",
+        "iso": "ISO 27001（计划中）",
+        "soc": "SOC 2 Type II（计划中）",
+        "uptime": "Uptime Institute（计划中）",
+        "local": "本地认证"
+      }
+    },
+    "equipment": {
+      "title": "设备",
+      "compute": {
+        "title": "计算",
+        "gpu": "GPU服务器",
+        "nvidia": "NVIDIA A100/H100",
+        "amd": "AMD MI250/MI300",
+        "intel": "Intel GPU",
+        "cpu": "CPU服务器",
+        "epyc": "AMD EPYC",
+        "xeon": "Intel Xeon",
+        "arm": "ARM选项"
+      },
+      "storage": {
+        "title": "存储",
+        "nvme": "NVMe闪存阵列",
+        "hdd": "HDD存储层",
+        "object": "对象存储",
+        "planning": "容量规划"
+      },
+      "networking": {
+        "title": "网络",
+        "switches": "交换机与路由器",
+        "speed": "100G/400G能力",
+        "sdn": "软件定义网络"
+      }
+    },
+    "operations": {
+      "title": "运营",
+      "noc": {
+        "title": "网络运营中心",
+        "monitoring": "7x24监控",
+        "incident": "事件响应",
+        "escalation": "升级程序"
+      },
+      "maintenance": {
+        "title": "维护",
+        "preventive": "预防性计划",
+        "spares": "备件库存",
+        "vendor": "供应商支持",
+        "windows": "维护窗口"
+      },
+      "support": {
+        "title": "支持",
+        "tiers": "支持级别",
+        "response": "响应时间",
+        "remoteHands": "远程协助",
+        "contact": "联系方式"
+      },
+      "dr": {
+        "title": "灾难恢复",
+        "bcp": "业务连续性",
+        "backup": "备用电源",
+        "data": "数据备份",
+        "rto": "恢复目标"
+      }
+    }
+  },
+  "compute": {
+    "title": "AI计算",
+    "overview": {
+      "title": "AI基础设施即服务",
+      "subtitle": "企业级计算，低于市场价40%",
+      "whyUs": "为什么选择肯尼亚AI计算",
+      "cost": "40%成本优势",
+      "green": "绿色能源计算",
+      "location": "战略位置",
+      "flexible": "灵活部署",
+      "useCases": "用例",
+      "getStarted": "开始使用"
+    },
+    "gpu": {
+      "title": "GPU计算",
+      "training": {
+        "title": "AI训练",
+        "description": "在尖端GPU上进行大型模型训练",
+        "available": "可用GPU",
+        "h100": "NVIDIA H100 80GB",
+        "a100_80": "NVIDIA A100 80GB",
+        "a100_40": "NVIDIA A100 40GB",
+        "mi250": "AMD MI250X",
+        "clusters": "集群配置",
+        "single": "单节点",
+        "multi": "多节点（NVLink）",
+        "full": "完整集群（InfiniBand）",
+        "storage": "存储集成",
+        "pricing": "定价",
+        "onDemand": "按需：$0.70-1.50/GPU小时",
+        "reserved1m": "预留（1个月）：20%折扣",
+        "reserved6m": "预留（6个月）：35%折扣",
+        "reserved1y": "预留（1年）：50%折扣"
+      },
+      "inference": {
+        "title": "AI推理",
+        "description": "大规模低延迟推理",
+        "l40s": "NVIDIA L40S",
+        "t4": "NVIDIA T4",
+        "mi210": "AMD MI210",
+        "deployment": "部署选项"
+      },
+      "rendering": {
+        "title": "渲染",
+        "description": "3D渲染和视频处理",
+        "workloads": "支持的工作负载"
+      },
+      "fineTuning": {
+        "title": "微调",
+        "description": "模型微调服务",
+        "frameworks": "支持的框架"
+      }
+    },
+    "cpu": {
+      "title": "CPU计算",
+      "general": {
+        "title": "通用计算",
+        "vms": "虚拟机",
+        "instances": "实例类型",
+        "standard": "标准（均衡）",
+        "compute": "计算优化",
+        "memory": "内存优化",
+        "pricing": "$0.02-0.08/vCPU小时"
+      },
+      "bareMetal": {
+        "title": "裸金属",
+        "dedicated": "专用服务器",
+        "configs": "配置"
+      },
+      "edge": {
+        "title": "边缘推理",
+        "cpuInference": "基于CPU的推理",
+        "useCases": "用例"
+      }
+    },
+    "storage": {
+      "title": "存储",
+      "block": {
+        "title": "块存储",
+        "nvme": "NVMe SSD",
+        "tiers": "性能级别",
+        "pricing": "$0.10-0.20/GB-月"
+      },
+      "object": {
+        "title": "对象存储",
+        "s3": "S3兼容",
+        "useCases": "用例",
+        "pricing": "$0.02-0.05/GB-月"
+      },
+      "datasets": {
+        "title": "数据集",
+        "preloaded": "预加载AI数据集",
+        "marketplace": "数据集市场",
+        "custom": "自定义数据加载"
+      }
+    },
+    "networking": {
+      "title": "网络",
+      "connectivity": {
+        "title": "连接",
+        "public": "公共互联网",
+        "private": "私有网络",
+        "crossConnect": "交叉连接选项"
+      },
+      "bandwidth": {
+        "title": "带宽",
+        "included": "包含带宽",
+        "additional": "额外定价",
+        "burst": "突发能力"
+      },
+      "latency": {
+        "title": "延迟",
+        "regions": "到主要地区的延迟",
+        "peering": "对等合作伙伴",
+        "cdn": "内容分发"
+      }
+    },
+    "depin": {
+      "title": "DePIN集成",
+      "overview": {
+        "title": "去中心化物理基础设施",
+        "what": "什么是DePIN",
+        "whatText": "DePIN（去中心化物理基础设施网络）将现实世界的基础设施连接到区块链网络，实现分布式计算、存储等。",
+        "why": "为什么DePIN + 肯尼亚AI计算",
+        "lowEnergy": "低能源成本 = 更高的节点收益",
+        "geographic": "网络的地理多样化",
+        "regulatory": "监管友好的管辖区",
+        "professional": "专业基础设施",
+        "supported": "支持的网络"
+      },
+      "render": {
+        "title": "Render网络",
+        "about": "关于Render网络",
+        "aboutText": "Render网络是一个分布式GPU渲染平台，将艺术家和工作室与GPU提供商连接起来。",
+        "specs": "我们的节点规格",
+        "earnings": "预期收益",
+        "allocate": "分配容量",
+        "partnership": "合作详情"
+      },
+      "akash": {
+        "title": "Akash网络",
+        "about": "关于Akash",
+        "aboutText": "Akash网络是一个去中心化的云计算市场，用于部署应用程序。",
+        "provider": "提供商设置",
+        "pricing": "定价策略",
+        "utilization": "预期利用率"
+      },
+      "ionet": {
+        "title": "io.net",
+        "about": "关于io.net",
+        "aboutText": "io.net聚合来自数据中心、加密矿工和消费者硬件的未充分利用的GPU计算。",
+        "integration": "GPU集群集成",
+        "tokenomics": "代币经济收益",
+        "onboarding": "入驻流程"
+      },
+      "gensyn": {
+        "title": "Gensyn",
+        "about": "关于Gensyn",
+        "aboutText": "Gensyn正在构建用于深度学习计算的无信任协议。",
+        "nodes": "训练验证节点",
+        "roadmap": "集成路线图"
+      },
+      "bittensor": {
+        "title": "Bittensor",
+        "about": "关于Bittensor",
+        "aboutText": "Bittensor是一个去中心化的机器学习网络。",
+        "subnets": "子网参与",
+        "mining": "挖矿设置"
+      },
+      "other": {
+        "title": "其他网络",
+        "ritual": "Ritual",
+        "flux": "Flux",
+        "nosana": "Nosana",
+        "emerging": "新兴网络"
+      },
+      "nodeHosting": {
+        "title": "节点托管",
+        "runOwn": "运行您自己的DePIN节点",
+        "colocation": "节点运营商托管",
+        "managed": "托管节点服务"
+      },
+      "tokenomics": {
+        "title": "代币经济",
+        "revenue": "收入分享模式",
+        "earnings": "代币收益潜力",
+        "staking": "质押机会",
+        "risks": "风险考虑"
+      }
+    },
+    "enterprise": {
+      "title": "企业解决方案",
+      "privateCloud": {
+        "title": "私有云",
+        "dedicated": "专用基础设施",
+        "custom": "自定义配置",
+        "sla": "企业SLA"
+      },
+      "hybridCloud": {
+        "title": "混合云",
+        "integration": "AWS/GCP/Azure集成",
+        "burst": "突发能力",
+        "residency": "数据驻留"
+      },
+      "managed": {
+        "title": "托管服务",
+        "mlops": "MLOps支持",
+        "deployment": "模型部署",
+        "consulting": "咨询服务"
+      }
+    },
+    "pricing": {
+      "title": "定价",
+      "calculator": {
+        "title": "定价计算器",
+        "select": "选择资源类型",
+        "configure": "配置规格",
+        "commitment": "选择承诺",
+        "calculate": "计算成本",
+        "compare": "与替代方案比较"
+      },
+      "plans": {
+        "title": "计划",
+        "payg": "按需付费",
+        "reserved": "预留实例",
+        "spot": "竞价实例",
+        "enterprise": "企业协议"
+      },
+      "comparison": {
+        "title": "比较",
+        "vsAws": "对比AWS",
+        "vsGcp": "对比Google Cloud",
+        "vsAzure": "对比Azure",
+        "vsLambda": "对比Lambda Labs",
+        "vsCoreweave": "对比CoreWeave"
+      }
+    },
+    "sla": {
+      "title": "SLA",
+      "uptime": {
+        "title": "正常运行时间",
+        "guarantee": "99.9%可用性保证",
+        "maintenance": "计划维护",
+        "credits": "信用政策"
+      },
+      "support": {
+        "title": "支持",
+        "tiers": "支持级别",
+        "basic": "基础：邮件，24小时响应",
+        "standard": "标准：聊天，4小时响应",
+        "premium": "高级：电话，1小时响应",
+        "enterprise": "企业：专属TAM"
+      },
+      "security": {
+        "title": "安全",
+        "data": "数据保护",
+        "compliance": "合规",
+        "practices": "安全实践"
+      }
+    },
+    "onboarding": {
+      "title": "入驻",
+      "getStarted": {
+        "title": "开始使用",
+        "account": "创建账户",
+        "verification": "验证",
+        "payment": "支付设置",
+        "deploy": "首次部署"
+      },
+      "docs": {
+        "title": "文档",
+        "api": "API参考",
+        "sdk": "SDK文档",
+        "tutorials": "教程",
+        "samples": "示例代码"
+      },
+      "migration": {
+        "title": "迁移",
+        "from": "从云提供商迁移",
+        "tools": "迁移工具",
+        "support": "迁移支持"
+      }
+    }
+  },
+  "investors": {
+    "title": "投资者",
+    "overview": {
+      "title": "投资机会",
+      "thesis": "投资论点",
+      "aiSupercycle": "AI基础设施超级周期",
+      "energyArbitrage": "能源套利机会",
+      "africaTransformation": "非洲数字化转型",
+      "depinEffects": "DePIN网络效应",
+      "highlights": "关键投资亮点",
+      "summary": "交易摘要",
+      "requestDeck": "获取投资者演示文稿"
+    },
+    "opportunity": {
+      "title": "机会",
+      "market": {
+        "title": "市场概述",
+        "globalAi": "全球AI基础设施市场",
+        "marketSize": "市场规模和增长",
+        "gpuDemand": "GPU计算需求",
+        "africa": "非洲数据中心市场",
+        "depin": "DePIN市场"
+      },
+      "advantage": {
+        "title": "竞争优势",
+        "energy": "能源成本护城河",
+        "energyText": "$0.04/kWh对比其他地方$0.10-0.15 = 60-70%成本降低",
+        "firstMover": "东非先发优势",
+        "integrated": "垂直整合模式",
+        "diversification": "DePIN多元化",
+        "scalable": "可扩展模块化设计"
+      },
+      "timing": {
+        "title": "为什么是现在",
+        "invest": "为什么现在投资",
+        "window": "市场窗口",
+        "dynamics": "竞争动态",
+        "risk": "等待的风险"
+      },
+      "comparables": {
+        "title": "可比性",
+        "transactions": "类似交易",
+        "benchmarks": "估值基准",
+        "multiples": "退出倍数"
+      }
+    },
+    "financials": {
+      "title": "财务模型",
+      "model": {
+        "title": "模型概述",
+        "assumptions": "关键假设",
+        "revenue": "收入模型",
+        "gpuRevenue": "GPU计算收入",
+        "cpuRevenue": "CPU计算收入",
+        "storageRevenue": "存储收入",
+        "depinEarnings": "DePIN代币收益",
+        "other": "其他服务",
+        "costs": "成本结构"
+      },
+      "capex": {
+        "title": "资本支出",
+        "total": "总计：$2000-2500万",
+        "breakdown": "明细",
+        "datacenter": "数据中心：$350-450万",
+        "servers": "服务器（GPU/CPU）：$1400-1800万",
+        "networking": "网络：$200-300万",
+        "contingency": "应急：$100-200万",
+        "schedule": "投资计划",
+        "financing": "融资结构"
+      },
+      "opex": {
+        "title": "运营支出",
+        "annual": "年度：$200-280万",
+        "energy": "能源：$80-120万",
+        "personnel": "人员：$40-60万",
+        "connectivity": "连接：$20-30万",
+        "maintenance": "维护：$20-30万",
+        "licenses": "许可证：$10-20万",
+        "other": "其他：$10-20万",
+        "scaling": "随阶段扩展"
+      },
+      "revenue": {
+        "title": "收入预测",
+        "year1": "第1年：$200-300万",
+        "year2": "第2年：$500-800万",
+        "year3": "第3年：$800-1200万",
+        "year4": "第4年：$1000-1500万",
+        "year5": "第5年：$1200-1800万",
+        "mix": "收入组合演变",
+        "utilization": "利用率假设"
+      },
+      "scenarios": {
+        "title": "情景分析",
+        "base": "基准情景",
+        "conservative": "保守情景",
+        "optimistic": "乐观情景",
+        "sensitivity": "敏感性分析",
+        "monte": "蒙特卡罗模拟"
+      },
+      "calculator": {
+        "title": "ROI计算器",
+        "amount": "投资金额",
+        "stake": "股权比例",
+        "irr": "IRR预测",
+        "npv": "NPV计算",
+        "cashflow": "现金流瀑布",
+        "exit": "退出价值情景"
+      }
+    },
+    "structure": {
+      "title": "交易结构",
+      "legal": {
+        "title": "法律结构",
+        "corporate": "公司结构",
+        "holding": "控股公司",
+        "operating": "肯尼亚运营公司",
+        "ip": "知识产权持有",
+        "vehicle": "投资工具",
+        "considerations": "关键考虑"
+      },
+      "equity": {
+        "title": "股权结构",
+        "distribution": "股权分配",
+        "founders": "创始人/发起人",
+        "investors": "投资者",
+        "local": "本地合作伙伴",
+        "technical": "技术合作伙伴",
+        "esop": "ESOP储备",
+        "classes": "股份类别",
+        "antiDilution": "反稀释条款"
+      },
+      "governance": {
+        "title": "治理",
+        "board": "董事会构成",
+        "voting": "投票权",
+        "reserved": "保留事项",
+        "reporting": "报告要求",
+        "management": "管理团队"
+      },
+      "exit": {
+        "title": "退出策略",
+        "strategies": "退出选项",
+        "strategic": "战略出售",
+        "ipo": "IPO（长期）",
+        "secondary": "二级出售",
+        "dividend": "股息资本重组",
+        "timeline": "预期时间线：5-7年",
+        "returns": "目标回报：3-5倍"
+      }
+    },
+    "risks": {
+      "title": "风险分析",
+      "analysis": {
+        "title": "风险评估",
+        "matrix": "风险矩阵",
+        "categories": "风险类别",
+        "market": "市场风险",
+        "operational": "运营风险",
+        "financial": "财务风险",
+        "political": "政治/监管风险",
+        "technology": "技术风险",
+        "execution": "执行风险",
+        "explorer": "风险探索器"
+      },
+      "mitigation": {
+        "title": "风险缓解",
+        "strategies": "缓解策略",
+        "insurance": "保险覆盖",
+        "contracts": "合同保护",
+        "contingency": "应急计划"
+      },
+      "kenya": {
+        "title": "肯尼亚特定风险",
+        "political": "政治风险",
+        "currency": "货币风险",
+        "regulatory": "监管风险",
+        "infrastructure": "基础设施风险"
+      }
+    },
+    "dueDiligence": {
+      "title": "尽职调查",
+      "process": {
+        "title": "DD流程",
+        "timeline": "时间线",
+        "steps": "必要步骤",
+        "contacts": "关键联系人"
+      },
+      "documents": {
+        "title": "文档",
+        "summary": "执行摘要",
+        "deck": "演示文稿",
+        "model": "财务模型",
+        "request": "请求完整数据室访问"
+      },
+      "faq": {
+        "title": "常见问题",
+        "questions": "常见问题"
+      }
+    },
+    "contact": {
+      "title": "联系投资者关系",
+      "ir": "投资者关系",
+      "schedule": "预约电话",
+      "request": "请求材料",
+      "nda": "NDA流程"
+    }
+  },
+  "partners": {
+    "title": "合作伙伴",
+    "overview": {
+      "title": "与我们合作",
+      "philosophy": "合作理念",
+      "ecosystem": "合作伙伴生态系统",
+      "benefits": "合作收益"
+    },
+    "kenya": {
+      "title": "肯尼亚合作伙伴",
+      "opportunity": {
+        "title": "机会",
+        "role": "角色描述",
+        "contributions": "预期贡献",
+        "powerPlant": "电厂建设",
+        "dcConstruction": "数据中心建设管理",
+        "permits": "本地许可证",
+        "workforce": "人力资源",
+        "logistics": "物流协调",
+        "equity": "股权参与"
+      },
+      "requirements": {
+        "title": "要求",
+        "experience": "经验要求",
+        "financial": "财务要求",
+        "presence": "本地存在",
+        "track": "业绩记录"
+      },
+      "benefits": {
+        "title": "收益",
+        "revenue": "收入分享",
+        "equity": "股权",
+        "longTerm": "长期合作",
+        "technology": "技术转让"
+      },
+      "apply": "立即申请"
+    },
+    "technical": {
+      "title": "技术合作伙伴",
+      "role": {
+        "title": "角色",
+        "architecture": "数据中心架构与设计",
+        "engineering": "工程监督",
+        "operations": "运营模式",
+        "support": "持续支持"
+      },
+      "requirements": {
+        "title": "要求",
+        "dcExperience": "数据中心设计经验",
+        "certifications": "认证",
+        "regional": "区域经验",
+        "references": "参考"
+      },
+      "engagement": {
+        "title": "合作模式",
+        "consulting": "仅咨询",
+        "designBuild": "设计建造",
+        "equity": "股权参与",
+        "om": "运维合同"
+      },
+      "apply": "提交RFI"
+    },
+    "energy": {
+      "title": "能源合作伙伴",
+      "opportunity": {
+        "title": "机会",
+        "powerGen": "发电合作",
+        "ppa": "PPA结构",
+        "renewable": "可再生能源开发"
+      },
+      "requirements": {
+        "title": "要求",
+        "capacity": "发电容量",
+        "reliability": "可靠性",
+        "pricing": "定价预期",
+        "term": "期限预期"
+      },
+      "apply": "表达兴趣"
+    },
+    "suppliers": {
+      "title": "设备供应商",
+      "categories": {
+        "title": "类别",
+        "servers": "服务器与计算",
+        "networking": "网络",
+        "power": "电力系统",
+        "cooling": "冷却系统",
+        "infrastructure": "物理基础设施",
+        "security": "安全系统"
+      },
+      "requirements": {
+        "title": "要求",
+        "specs": "技术规格",
+        "quality": "质量标准",
+        "warranty": "保修要求",
+        "support": "支持要求",
+        "logistics": "肯尼亚物流"
+      },
+      "tender": {
+        "title": "招标流程",
+        "timeline": "采购时间线",
+        "criteria": "评估标准",
+        "terms": "条款与条件"
+      },
+      "register": "注册为供应商"
+    },
+    "network": {
+      "title": "网络合作伙伴",
+      "integration": {
+        "title": "集成",
+        "how": "如何集成",
+        "technical": "技术要求",
+        "testing": "测试流程"
+      },
+      "benefits": {
+        "title": "收益",
+        "geographic": "地理扩展",
+        "lowCost": "低成本计算",
+        "reliable": "可靠基础设施"
+      },
+      "apply": "申请合作"
+    },
+    "operations": {
+      "title": "运营合作伙伴",
+      "noc": {
+        "title": "NOC服务",
+        "requirements": "NOC要求",
+        "staffing": "人员配置",
+        "sla": "SLA要求"
+      },
+      "maintenance": {
+        "title": "维护",
+        "preventive": "预防性维护",
+        "breakFix": "故障修复",
+        "spares": "备件"
+      },
+      "apply": "申请合作"
+    }
+  },
+  "footer": {
+    "description": "通过可持续、经济实惠的计算建设非洲AI基础设施。",
+    "quickLinks": "快速链接",
+    "company": "公司",
+    "resources": "资源",
+    "legal": "法律",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie政策",
+    "contact": "联系",
+    "newsletter": {
+      "title": "新闻通讯",
+      "description": "订阅我们的项目更新",
+      "placeholder": "输入您的邮箱",
+      "subscribe": "订阅"
+    },
+    "copyright": "版权所有。"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "contactUs": "联系我们",
+    "apply": "申请",
+    "submit": "提交",
+    "download": "下载",
+    "viewAll": "查看全部",
+    "readMore": "阅读更多",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "required": "必填",
+    "optional": "可选",
+    "comingSoon": "即将推出",
+    "underConstruction": "建设中"
+  },
+  "forms": {
+    "name": "姓名",
+    "email": "邮箱",
+    "phone": "电话",
+    "company": "公司",
+    "message": "留言",
+    "role": "角色",
+    "submit": "提交",
+    "sending": "发送中...",
+    "sent": "消息已发送！",
+    "error": "发送失败，请重试。"
+  }
+}
