@@ -1,0 +1,141 @@
+{
+  // OpenClaw Configuration — Innova Consulting Group
+  // Документация: https://docs.openclaw.ai/gateway/configuration
+  //
+  // ВНИМАНИЕ: Перед запуском замените все значения [ЗАПОЛНИТЬ] реальными данными
+
+  "gateway": {
+    "mode": "local",
+    "port": 18789,
+    "address": "127.0.0.1",
+    "auth": {
+      "mode": "token",
+      "token": "[ЗАПОЛНИТЬ: сгенерируйте токен командой: openssl rand -hex 32]"
+    },
+    "logging": {
+      "level": "info",
+      "file": "~/.openclaw/logs/gateway.log"
+    }
+  },
+
+  "agents": {
+    "defaults": {
+      "workspace": "~/.openclaw/workspace",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514",
+        "thinking": "low"
+      },
+      "maxTurns": 20
+    },
+
+    // Специализированные агенты для каждого направления Innova
+    "legal": {
+      "workspace": "~/.openclaw/agents/legal",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514",
+        "thinking": "medium"
+      }
+    },
+    "audit": {
+      "workspace": "~/.openclaw/agents/audit",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514",
+        "thinking": "medium"
+      }
+    },
+    "marketing": {
+      "workspace": "~/.openclaw/agents/marketing",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514"
+      }
+    },
+    "realestate": {
+      "workspace": "~/.openclaw/agents/realestate",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514"
+      }
+    },
+    "investment": {
+      "workspace": "~/.openclaw/agents/investment",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514",
+        "thinking": "medium"
+      }
+    },
+    "hr": {
+      "workspace": "~/.openclaw/agents/hr",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514"
+      }
+    },
+    "training": {
+      "workspace": "~/.openclaw/agents/training",
+      "model": {
+        "provider": "anthropic",
+        "model": "claude-sonnet-4-20250514"
+      }
+    }
+  },
+
+  "channels": {
+    "defaults": {
+      "groupPolicy": "allowlist"
+    },
+
+    // Telegram — основной канал для Украины
+    "telegram": {
+      "enabled": true,
+      "botToken": "[ЗАПОЛНИТЬ: токен от @BotFather]",
+      "dmPolicy": "pairing",
+      "streaming": {
+        "enabled": true,
+        "draftMode": true
+      },
+      "reactions": {
+        "mode": "auto"
+      }
+    },
+
+    // Slack — для внутренней командной работы (опционально)
+    "slack": {
+      "enabled": false,
+      "botToken": "[ЗАПОЛНИТЬ: Slack Bot Token]",
+      "appToken": "[ЗАПОЛНИТЬ: Slack App Token]"
+    },
+
+    // WebChat — для встраивания на сайт innova.ua (опционально)
+    "webchat": {
+      "enabled": false,
+      "port": 3100
+    }
+  },
+
+  "skills": {
+    "load": {
+      "extraDirs": []
+    }
+  },
+
+  "tools": {
+    "approval": {
+      "shell": "always",
+      "fileDelete": "always",
+      "httpPost": "always",
+      "fileWrite": "auto",
+      "fileRead": "auto",
+      "webSearch": "auto"
+    }
+  },
+
+  "memory": {
+    "autoFlush": true,
+    "vectorSearch": true
+  }
+}
